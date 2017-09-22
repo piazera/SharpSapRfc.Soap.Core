@@ -1,0 +1,7 @@
+C:\code\git\SharpSapRfc.Soap.Core\SharpSapRfc.Base\bin\Debug\netcoreapp1.1\SharpSapRfc.Base.deps.json
+C:\code\git\SharpSapRfc.Soap.Core\SharpSapRfc.Base\bin\Debug\netcoreapp1.1\SharpSapRfc.Base.dll
+C:\code\git\SharpSapRfc.Soap.Core\SharpSapRfc.Base\bin\Debug\netcoreapp1.1\SharpSapRfc.Base.pdb
+C:\code\git\SharpSapRfc.Soap.Core\SharpSapRfc.Base\obj\Debug\netcoreapp1.1\SharpSapRfc.Base.AssemblyInfo.cs
+C:\code\git\SharpSapRfc.Soap.Core\SharpSapRfc.Base\obj\Debug\netcoreapp1.1\SharpSapRfc.Base.dll
+C:\code\git\SharpSapRfc.Soap.Core\SharpSapRfc.Base\obj\Debug\netcoreapp1.1\SharpSapRfc.Base.pdb
+c:\code\git\SharpSapRfc.Soap.Core\SharpSapRfc.Base\obj\Debug\netcoreapp1.1\SharpSapRfc.Base.csprojResolveAssemblyReference.cache

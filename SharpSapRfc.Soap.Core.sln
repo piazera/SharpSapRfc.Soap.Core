@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSapRfc.Base", "SharpSapRfc.Base\SharpSapRfc.Base.csproj", "{78475D36-3693-4B75-A044-76E4E5EB8F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSapRfc.Soap", "SharpSapRfc.Soap.Core\SharpSapRfc.Soap.Core.csproj", "{BEC4C476-907C-451D-9DD8-52865D2488DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{C0C4F1F7-3B59-4B08-A3D5-9A8A6C53EE83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78475D36-3693-4B75-A044-76E4E5EB8F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78475D36-3693-4B75-A044-76E4E5EB8F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78475D36-3693-4B75-A044-76E4E5EB8F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78475D36-3693-4B75-A044-76E4E5EB8F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC4C476-907C-451D-9DD8-52865D2488DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC4C476-907C-451D-9DD8-52865D2488DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC4C476-907C-451D-9DD8-52865D2488DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC4C476-907C-451D-9DD8-52865D2488DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C4F1F7-3B59-4B08-A3D5-9A8A6C53EE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C4F1F7-3B59-4B08-A3D5-9A8A6C53EE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C4F1F7-3B59-4B08-A3D5-9A8A6C53EE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C4F1F7-3B59-4B08-A3D5-9A8A6C53EE83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
